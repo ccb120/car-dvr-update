@@ -1,7 +1,7 @@
 {
-  "versionCode": 100,
-  "versionName": "1.1.0",
+  "versionCode": 101,
+  "versionName": "1.2.0",
   "url": "car_dvr.apk",
-  "md5": "48e2d528f45f3d34103a84f967f815a5",
-  "note": "初始版本（在线更新链路就绪）"
+  "md5": "ee8617f5964a3a8e3c91b6367b3e9cfd",
+  "note": "v1.2.0：在线更新演示，验证完整升级流程"
 }
